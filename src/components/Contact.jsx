@@ -28,13 +28,13 @@ export default function Contact() {
             <br />
             <strong>Email:</strong> Contact@dhruvalexim.com
           </p>
-          <p >
+          {/* <p >
             <strong>Follow Us:</strong>
             <img className="p-1" src="./public/img/facebook.png" />
              
             <img className="p-1" src="./public/img/instragram.png" />
              <img className="p-1 " src="./public/img/linkdin.png" />
-          </p>
+          </p> */}
         </div>
         <form className="contact-form" onSubmit={(e) => e.preventDefault()}>
           <div className="row g-3">
