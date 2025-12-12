@@ -30,10 +30,10 @@ export default function Contact() {
           </p>
           <p >
             <strong>Follow Us:</strong>
-            <img className="p-1" src="./img/facebook.png" />
+            <img className="p-1" src="/public/img/facebook.png" />
              
-            <img className="p-1" src="./img/instragram.png" />
-             <img className="p-1 " src="./img/linkdin.png" />
+            <img className="p-1" src="/public/img/instragram.png" />
+             <img className="p-1 " src="/public/img/linkdin.png" />
           </p>
         </div>
         <form className="contact-form" onSubmit={(e) => e.preventDefault()}>
