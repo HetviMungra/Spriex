@@ -1,10 +1,12 @@
 import React, { useEffect, useRef } from "react";
 import { gsap } from "gsap";
+import c1 from '/public/img/c-1.png'
+
 
 const productsData = [
   {
     title: "African Printed Fabric",
-    img: "./public/img/c-1.png",
+    img: c1,
     desc:
       "High-quality African prints made with vibrant colors and traditional patterns.",
   },
