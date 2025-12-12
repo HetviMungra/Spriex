@@ -2,11 +2,11 @@ import React, { useEffect, useRef } from "react";
 import { gsap } from "gsap";
 
 const visionariesData = [
-  { name: "Suresh Sabharwal", designation: "Director" ,src: "/public/img/owner-1.jpg" },
-  { name: "Manish Sabharwal", designation: "CEO & Production Manager",src: "/public/img/owner-2.jpg" },
-  { name: "Ganesh Sabharwal", designation: "Founder & Chairman",src: "/public/img/owner-3.jpg" },
-  { name: "Dhruval Sabharwal", designation: "Marketing Director",src: "/public/img/owner-4.jpg" },
-  { name: "Yash Sabharwal", designation: "Director",src: "/public/img/owner-5.jpg" },
+  { name: "Suresh Sabharwal", designation: "Director" ,src: "./public/img/owner-1.jpg" },
+  { name: "Manish Sabharwal", designation: "CEO & Production Manager",src: "./public/img/owner-2.jpg" },
+  { name: "Ganesh Sabharwal", designation: "Founder & Chairman",src: "./public/img/owner-3.jpg" },
+  { name: "Dhruval Sabharwal", designation: "Marketing Director",src: "./public/img/owner-4.jpg" },
+  { name: "Yash Sabharwal", designation: "Director",src: "./public/img/owner-5.jpg" },
 ];
 
 export default function Visionaries() {

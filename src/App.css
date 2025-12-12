@@ -168,10 +168,10 @@
   .about-content {
     flex-direction: column;
   }
-  .about-text,
+  /* .about-text,
   .about-image {
     flex: 1 1 100%;
-  }
+  } */
   .about-text h2 {
     font-size: 2rem;
   }
