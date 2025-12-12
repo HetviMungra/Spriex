@@ -4,19 +4,19 @@ import { gsap } from "gsap";
 const productsData = [
   {
     title: "African Printed Fabric",
-    img: "/img/c-1.png",
+    img: "./public/img/c-1.png",
     desc:
       "High-quality African prints made with vibrant colors and traditional patterns.",
   },
   {
     title: "Shirting Fabrics",
-    img: "/img/c-3.jpg",
+    img: "./public/img/c-3.jpg",
     desc:
       "Superior cotton shirting fabrics available in a wide variety of colors, textures, and weaves.",
   },
   {
     title: "Designer Sarees Collection",
-    img: "/img/c-4.jpg",
+    img: "./public/img/c-4.jpg",
     desc:
       "Elegant designer sarees crafted with attention to detail and rich textures for every occasion.",
   },
